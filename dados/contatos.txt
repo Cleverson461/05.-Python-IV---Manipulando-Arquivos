@@ -1,0 +1,15 @@
+Nome: Cléverson 
+Endereço: Rua x 
+Telefone: 6999384827
+
+Nome: Fulano 
+Endereço: Rua teo 
+Telefone: 6477830237
+
+Nome: Davi 
+Endereço: Rua do ceus 
+Telefone: 0092983484
+
+Nome: Nicolas 
+Endereço: rua dos anjos 
+Telefone: 045838959782930
